@@ -1,0 +1,7 @@
+git clone CSS Projects
+mkdir Priject 1
+touch Commands.txt
+nano Commands.txt insert command list
+git add
+git commit
+git push
